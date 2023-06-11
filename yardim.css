@@ -1,0 +1,68 @@
+.text-red {
+    color:#F7D060;
+    font-size:xx-large;
+    text-align:center;
+}
+
+  .menu{
+    list-style: none;
+    display: block;
+    text-align:center;
+    font-size:large;
+}
+
+.menu-li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+    
+    
+}
+.text-mor {
+    color: purple;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.text-haha {
+    text-align: center;
+}
+.text-bastik {
+    color: hotpink;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-ul {
+text-align: center;
+
+    
+    
+}
+.text-film {
+    color:#4D455D;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+}
+.resim {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div{
+    width: 400px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+text-align: center;
+
+}
+.div2{width: 400px;
+    height: 100px;
+    position: relative;
+    margin: auto;
+text-align: center;
+
+}
